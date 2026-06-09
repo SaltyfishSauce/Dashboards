@@ -79,10 +79,11 @@ This dashboard helps marketing teams:
 
 ## How to Use
 
-1. Download the `.pbix` file from this repository.
-2. Open the file using Microsoft Power BI Desktop.
-3. Interact with filters and visualizations to explore marketing performance metrics.
+* View the live interactive dashboard here: https://public.tableau.com/app/profile/shang.ma5872/viz/DigitalMarketingPerformance_17337125540110/DigitalMarketingPerformanceDashboard
+* Alternatively, download the .pbix file and open it with Microsoft Power BI Desktop.
+* Use the available filters and slicers to explore campaign performance, channel effectiveness, and marketing trends.
 
+For a quick preview, dashboard screenshots are included in the screenshots directory.
 ---
 
 ## Future Enhancements
